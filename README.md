@@ -16,5 +16,7 @@ Dice App is a simple app which simulated rolling of two dice. I learned how to c
 
 # An image of Dice App
 
+https://user-images.githubusercontent.com/47598577/98629447-dff30400-22e6-11eb-8cf7-d57de6cd8126.png
+
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
